@@ -1,0 +1,10 @@
+.highscores {
+  text-align: center;
+}
+.highscores h2 {
+  margin: 5px;
+}
+.highscores p {
+  text-align: center;
+  margin: 2px;
+}

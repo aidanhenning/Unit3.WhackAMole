@@ -1,0 +1,16 @@
+.welcome {
+  text-align: center;
+}
+.welcome p {
+  text-align: center;
+  margin: 2px;
+}
+.welcome button {
+  border: 1px solid black;
+  background-color: white;
+  width: 12rem;
+  margin: 5px;
+}
+.welcome button:hover {
+  background-color: whitesmoke;
+}

@@ -1,4 +1,13 @@
-
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  text-align: center;
+  margin: 5px;
+}
 .hole {
   background: url("/hole.png") no-repeat center/contain;
 }
@@ -6,4 +15,3 @@
 .mole {
   background-image: url("/mole.png");
 }
-
